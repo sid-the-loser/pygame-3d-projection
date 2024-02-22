@@ -1,1 +1,1 @@
-#My trial and falure on doing 3D from scratch on Pygame
+# My trial and failure on doing 3D from scratch on Pygame
