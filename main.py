@@ -1,3 +1,9 @@
+"""
+By: Sidharth Suresh (aka SidTheLoser)
+
+Reference code: https://youtube.com/playlist?list=PLzejLKcw8dnwkzgONKjQyDbiy4_ebnv9q&si=If6YS_wS0NqSL76K
+"""
+
 import pygame
 from pygame.locals import *
 from math import sin, cos, sqrt
